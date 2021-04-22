@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{76268A4F-19E6-45A8-B3A2-57DFB97997CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddressBookApp/Controllers/OrganizationsController.cs">
+    <Files>
+      <File FileName="AddressBookApp/Controllers/HomeController.cs" Line="27" Column="35" />
+      <File FileName="AddressBookApp/Controllers/OrganizationsController.cs" Line="119" Column="35" />
+      <File FileName="AddressBookApp/Controllers/PersonsController.cs" Line="22" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AddressBookApp" expanded="True">
+            <Node name="AddressBookApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrganizationsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Organizations" expanded="True" />
+                <Node name="Persons" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddressBookApp PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
