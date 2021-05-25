@@ -1,0 +1,1 @@
+A small web application that models an address book.It lists organizations and people. It allows the user to see the names and contact details of people in organizations, and to manage the people who are in an organization. It allows organizations and people to be created, edited and deleted.
